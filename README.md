@@ -12,8 +12,31 @@ Home office worker.
 - Scrum
 - Curious
 
+## projects
+Somethings i´ve doing, focused in learning and knoledge reinforcment
+###### Web Apps
+- [ ] Calculator with (Ts and React)
+- [ ] Quiz App
+- [ ] Note App
+- [ ] Stopwatch App
+- [ ] Music Player
+- [X] Portfolio Page
+- [X] Dashboard App
 
+###### Web Tools
+- [ ] Password Generator
+- [ ] Meme GEnerator
+- [ ] Chat App
+- [ ] Survey App
+- [ ] File Sharing
+- [ ] Typing Speed
+- [ ] To-do List (Ts and React)
+- [ ] QR CODE reader
 
+###### Games
+- [X] Snake Game (Vanilla Js and HTML)
+- [ ] Rock Paper Scissors
+- [ ] Tic Tac Toe 
 
 ## Current stack:
 ###### Langs: 
