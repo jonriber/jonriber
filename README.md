@@ -22,6 +22,8 @@ Somethings i´ve doing, focused in learning and knoledge reinforcment
 - [ ] Music Player
 - [X] Portfolio Page
 - [X] Dashboard App
+- [ ] Simple E-commerce
+
 
 ###### Web Tools
 - [ ] Password Generator
@@ -32,6 +34,7 @@ Somethings i´ve doing, focused in learning and knoledge reinforcment
 - [ ] Typing Speed
 - [ ] To-do List (Ts and React)
 - [ ] QR CODE reader
+- [ ] REST API with NodeJs and MONGODB
 
 ###### Games
 - [X] Snake Game (Vanilla Js and HTML)
