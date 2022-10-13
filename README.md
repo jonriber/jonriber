@@ -41,6 +41,9 @@ Somethings i´ve doing, focused in learning and knoledge reinforcment
 - [ ] Rock Paper Scissors
 - [ ] Tic Tac Toe 
 
+###### Scripts
+Under development
+
 ## Current stack:
 ###### Langs: 
 1. Javascript
