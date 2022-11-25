@@ -35,6 +35,7 @@ Somethings i´ve doing, focused in learning and knoledge reinforcment
 - [ ] To-do List (Ts and React)
 - [ ] QR CODE reader
 - [ ] REST API with NodeJs and MONGODB
+- [X] REST API 101 with Python, Flask and SQlite  
 
 ###### Games
 - [X] Snake Game (Vanilla Js and HTML)
