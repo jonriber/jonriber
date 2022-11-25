@@ -1,19 +1,21 @@
 ## **Jonatas Ribeiro**
 
-Brazilian Software and Electronics Engineer, 32 years old, married and father of two amazing kids. <br/>
+Brazilian **Software and Electronics Engineer**, 32 years old, married and father of two amazing kids. <br/>
 Using technology to make life better. <br/>
-Currently working as a Frontend Engineer, but always tuned in tech trends and new tools related to software in general. <br/>
+Currently working as a **Frontend Engineer and web developer**.<br/>
+Always tuned in tech trends and new tools related to **software** in general. <br/>
 Home office worker.
 
-## Soft Skills:
+## **Soft Skills**:
 - Team Player
 - Communicative
 - Proactive
 - Scrum
 - Curious
+- English speaker
 
-## projects
-Somethings i´ve doing, focused in learning and knoledge reinforcment
+## Projects:
+Somethings i´ve doing along my main job, focused in **learning** and knoledge **reinforcment**.
 ###### Web Apps
 - [ ] Calculator with (Ts and React)
 - [ ] Quiz App
@@ -35,7 +37,7 @@ Somethings i´ve doing, focused in learning and knoledge reinforcment
 - [ ] To-do List (Ts and React)
 - [ ] QR CODE reader
 - [ ] REST API with NodeJs and MONGODB
-- [X] REST API 101 with Python, Flask and SQlite  
+- [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
 
 ###### Games
 - [X] Snake Game (Vanilla Js and HTML)
