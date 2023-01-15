@@ -49,6 +49,7 @@ Under development
 
 ###### React Custom Components and challenges
 - [ ] React auto complete tool (React interview common questions)
+- [X] React Search Filter (React interview common Questions)
 
 ## Current stack:
 ###### Langs: 
