@@ -17,7 +17,7 @@ Home office worker.
 ## Projects:
 Somethings i´ve doing along my main job, focused in **learning** and knoledge **reinforcment**.
 ###### Web Apps
-- [ ] Calculator with (Ts and React)
+- [ ] Calculator App
 - [ ] Quiz App
 - [ ] Note App
 - [ ] Stopwatch App
@@ -25,37 +25,32 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 - [X] Portfolio Page (prottaribeiro.com)
 - [X] Dashboard App
 - [ ] Simple E-commerce
-
-
-###### Web Tools
+- [X] To-do List - https://github.com/jonriber/toDoapp-redux-example
 - [ ] Password Generator
-- [ ] Meme GEnerator
 - [ ] Chat App
 - [ ] Survey App
+
+###### Tools & Backend
+- [ ] Meme GEnerator
 - [ ] File Sharing
 - [ ] Typing Speed
-- [ ] To-do List (Ts and React)
+- [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
 - [ ] QR CODE reader
 - [ ] REST API with NodeJs and MONGODB
 - [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
 
 ###### Games
-- [X] Snake Game (Vanilla Js and HTML)
+- [X] Snake Game (Vanilla Js and HTML) - https://github.com/jonriber/snakeGame
 - [ ] Rock Paper Scissors
 - [ ] Tic Tac Toe 
 
-###### Scripts
-Under development
-
 ###### React Custom Components and challenges
-- [ ] React auto complete tool (React interview common questions)
-- [X] React Search Filter (React interview common Questions)
+- [X] React auto complete tool (React interview common questions) - https://github.com/jonriber/React-Auto-complete
+- [X] React Search Filter (React interview common Questions) - https://github.com/jonriber/REACT---SEARCH-FILTER
 
-## Current stack:
-###### Langs: 
-1. Javascript
-2. Typescript
-3. Python
+###### Teory
+- [X] Javascript Promises - https://github.com/jonriber/js-promisses
+- [ ] Performance Algorithms - https://github.com/jonriber/10-usefull-algorithms-in-nodejs
 
 ###### Frontend frameworks:
 1. React.js
