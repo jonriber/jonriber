@@ -22,7 +22,7 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 - [ ] Note App
 - [ ] Stopwatch App
 - [ ] Music Player
-- [X] Portfolio Page
+- [X] Portfolio Page (prottaribeiro.com)
 - [X] Dashboard App
 - [ ] Simple E-commerce
 
@@ -46,6 +46,9 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 
 ###### Scripts
 Under development
+
+###### React Custom Components and challenges
+- [ ] React auto complete tool (React interview common questions)
 
 ## Current stack:
 ###### Langs: 
