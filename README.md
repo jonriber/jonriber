@@ -21,7 +21,7 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 - [ ] Note App
 - [ ] Stopwatch App
 - [ ] Music Player
-- [X] Portfolio Page (prottaribeiro.com)
+- [X] Portfolio Page - https://prottaribeiro.com
 - [X] Dashboard App
 - [ ] Simple E-commerce
 - [X] To-do List - https://github.com/jonriber/toDoapp-redux-example
