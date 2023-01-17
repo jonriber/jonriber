@@ -2,9 +2,8 @@
 
 Brazilian **Software and Electronics Engineer**, 32 years old, married and father of two amazing kids. <br/>
 Using technology to make life better. <br/>
-Currently working as a **Frontend Engineer and web developer**.<br/>
-Always tuned in tech trends and new tools related to **software** in general. <br/>
-Home office worker.
+Currently working as a **Frontend Software Engineer and Web developer**.<br/>
+<br/>
 
 ## **Soft Skills**:
 - Team Player
