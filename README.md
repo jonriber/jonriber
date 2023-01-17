@@ -38,6 +38,9 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 - [ ] REST API with NodeJs and MONGODB
 - [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
 
+###### A.I
+- [ ] GPT-3
+
 ###### Games
 - [X] Snake Game (Vanilla Js and HTML) - https://github.com/jonriber/snakeGame
 - [ ] Rock Paper Scissors
