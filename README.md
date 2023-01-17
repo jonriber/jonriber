@@ -43,7 +43,7 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 - [X] Snake Game (Vanilla Js and HTML) - https://github.com/jonriber/snakeGame
 - [ ] Rock Paper Scissors
 - [ ] Tic Tac Toe 
-- [ ] Pick a Color
+- [X] Pick a Color - https://github.com/jonriber/Pick-a-Color
 
 ###### React Custom Components and challenges
 - [X] React auto complete tool (React interview common questions) - https://github.com/jonriber/React-Auto-complete
