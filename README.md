@@ -16,12 +16,13 @@ Currently working as a **Frontend Software Engineer and Web developer**.<br/>
 ## Projects:
 Somethings i´ve doing along my main job, focused in **learning** and knoledge **reinforcment**.
 ###### Web Apps
+- [X] Portfolio Page - https://prottaribeiro.com
+- [X] Login page with React Controlled components - https://jonriber.github.io/META-REACT-BASICS-2023/
 - [ ] Calculator App
 - [ ] Quiz App
 - [ ] Note App
 - [ ] Stopwatch App
 - [ ] Music Player
-- [X] Portfolio Page - https://prottaribeiro.com
 - [X] Dashboard App
 - [ ] Simple E-commerce
 - [X] To-do List - https://github.com/jonriber/toDoapp-redux-example
