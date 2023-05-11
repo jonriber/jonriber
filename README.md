@@ -16,37 +16,38 @@ Currently working as a **Frontend Software Engineer and Web developer**.<br/>
 ## Projects:
 Somethings i´ve doing along my main job, focused in **learning** and knoledge **reinforcment**.
 ###### Web Apps
-- [X] Portfolio Page - https://prottaribeiro.com
-- [X] Login page with React Controlled components - https://jonriber.github.io/META-REACT-BASICS-2023/
-- [ ] Calculator App
+- [X] Portfolio Page REACT/HTML/CSS- https://prottaribeiro.com
+- [X] Login page - REACT Controlled components - https://jonriber.github.io/META-REACT-BASICS-2023/
+- [X] To-do List - REACT/REDUX - https://github.com/jonriber/toDoapp-redux-example
+- [ ] To-do List - REACT/useReducer/Context API
+- [X] Calculator App - REACT
+- [X] Dashboard App
 - [ ] Quiz App
 - [ ] Note App
 - [ ] Stopwatch App
 - [ ] Music Player
-- [X] Dashboard App
 - [ ] Simple E-commerce
-- [X] To-do List - https://github.com/jonriber/toDoapp-redux-example
 - [ ] Password Generator
 - [ ] Chat App
 - [ ] Survey App
 
 ###### Tools & Backend
+- [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
+- [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
 - [ ] Meme GEnerator
 - [ ] File Sharing
 - [ ] Typing Speed
-- [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
 - [ ] QR CODE reader
 - [ ] REST API with NodeJs and MONGODB
-- [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
 
 ###### A.I
 - [ ] GPT-3
 
 ###### Games
 - [X] Snake Game (Vanilla Js and HTML) - https://github.com/jonriber/snakeGame
+- [X] Pick a Color - https://github.com/jonriber/Pick-a-Color
 - [ ] Rock Paper Scissors
 - [ ] Tic Tac Toe 
-- [X] Pick a Color - https://github.com/jonriber/Pick-a-Color
 
 ###### React Custom Components and challenges
 - [X] React auto complete tool (React interview common questions) - https://github.com/jonriber/React-Auto-complete
