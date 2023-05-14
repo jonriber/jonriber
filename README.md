@@ -24,9 +24,10 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 - [X] Calculator App - REACT/useRef/useState - https://jonriber.github.io/simple-calculator-app/
 - [X] Coupon Page - Complex Global State - REACT - https://jonriber.github.io/react-complex-state/
 
-###### Tools & Backend
+###### Tools & Backend & Algorithms
 - [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
 - [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
+- [X] Algorithmic Toolbox - University of California
 - [ ] Meme GEnerator
 - [ ] File Sharing
 - [ ] Typing Speed
