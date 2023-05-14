@@ -27,12 +27,7 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 ###### Tools & Backend & Algorithms
 - [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
 - [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
-- [X] Algorithmic Toolbox - University of California
-- [ ] Meme GEnerator
-- [ ] File Sharing
-- [ ] Typing Speed
-- [ ] QR CODE reader
-- [ ] REST API with NodeJs and MONGODB
+- [X] Algorithmic Toolbox - University of California - https://github.com/jonriber/Data-Structures-and-Algorithms-2023
 
 ###### A.I
 - [ ] GPT-3
