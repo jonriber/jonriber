@@ -1,21 +1,16 @@
 ## **Jonatas Ribeiro**
 
-Brazilian **Software and Electronics Engineer**, 32 years old, married and father of two amazing kids. <br/>
+Brazilian **Software and Electronics Engineer**, 32 years old, married and father of two amazing kids, based in Lisbon, Portugal. <br/>
 Using technology to make life better. <br/>
 Currently working as a **Frontend Software Engineer and Web developer**.<br/>
 <br/>
-
-## **Soft Skills**:
-- Team Player
-- Communicative
-- Proactive
-- Scrum
-- Curious
-- English speaker
+Love to share knowledge and talk to people! <br/>
+Reach me at: jonatas@prottaribeiro.com
+<br/>
 
 ## Projects:
-Somethings i´ve doing along my main job, focused in **learning** and knoledge **reinforcment**.
-###### Web Apps
+Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**.
+###### Web Apps (React/Vue)
 - [X] Portfolio Page REACT/HTML/CSS- https://prottaribeiro.com
 - [X] Login page - REACT Controlled components - https://jonriber.github.io/META-REACT-BASICS-2023/
 - [X] Feed Back Page - REACT - https://jonriber.github.io/feed-back-page/
@@ -28,6 +23,8 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 - [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
 - [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
 - [X] Algorithmic Toolbox - University of California - https://github.com/jonriber/Data-Structures-and-Algorithms-2023
+- [X] Javascript Promises - https://github.com/jonriber/js-promisses
+- [ ] Performance Algorithms - https://github.com/jonriber/10-usefull-algorithms-in-nodejs
 
 ###### A.I
 - [ ] GPT-3
@@ -41,23 +38,6 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 ###### React Custom Components and challenges
 - [X] React auto complete tool (React interview common questions) - https://github.com/jonriber/React-Auto-complete
 - [X] React Search Filter (React interview common Questions) - https://github.com/jonriber/REACT---SEARCH-FILTER
-
-###### Teory
-- [X] Javascript Promises - https://github.com/jonriber/js-promisses
-- [ ] Performance Algorithms - https://github.com/jonriber/10-usefull-algorithms-in-nodejs
-
-###### Frontend frameworks:
-1. React.js
-2. vue.js
-3. Redux
-4. Valtio
-5. Vite
-
-###### DB:
-1. Google firebase
-2. Google Firestore
-3. MongoDB
-4. MySQL
 
 ## 
 [![Jonatas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonriber&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
