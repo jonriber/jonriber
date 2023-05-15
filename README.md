@@ -18,6 +18,7 @@ Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**
 - [X] To-do List - REACT/useReducer/Context API - https://jonriber.github.io/to-do-list-app/
 - [X] Calculator App - REACT/useRef/useState - https://jonriber.github.io/simple-calculator-app/
 - [X] Coupon Page - Complex Global State - REACT - https://jonriber.github.io/react-complex-state/
+- [X] Basic Fetch Data APP - React/useEffect/fetch - https://jonriber.github.io/basic-fetch-data/
 
 ###### Tools & Backend & Algorithms
 - [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
