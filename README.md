@@ -20,7 +20,7 @@ Somethings i´ve doing along my main job, focused in **learning** and knoledge *
 - [X] Login page - REACT Controlled components - https://jonriber.github.io/META-REACT-BASICS-2023/
 - [X] Feed Back Page - REACT - https://jonriber.github.io/feed-back-page/
 - [X] To-do List - REACT/REDUX - https://github.com/jonriber/toDoapp-redux-example
-- [ ] To-do List - REACT/useReducer/Context API
+- [X] To-do List - REACT/useReducer/Context API - https://jonriber.github.io/to-do-list-app/
 - [X] Calculator App - REACT/useRef/useState - https://jonriber.github.io/simple-calculator-app/
 - [X] Coupon Page - Complex Global State - REACT - https://jonriber.github.io/react-complex-state/
 
