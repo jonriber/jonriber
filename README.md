@@ -4,9 +4,20 @@ Brazilian **Software and Electronics Engineer**, 32 years old, married and fathe
 Using technology to make life better. <br/>
 Currently working as a **Frontend Software Engineer and Web developer**.<br/>
 <br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="600" height="300" />
+</div>
 Love to share knowledge and talk to people! <br/>
-Reach me at: jonatas@prottaribeiro.com
+Reach me at: **jonatas@prottaribeiro.com**
+<div id="badges" align="start">
+  <a href="https://www.linkedin.com/in/jonatas-ribeiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80" height="80" />
+<div/>
 <br/>
+
+---
 
 ## Projects:
 Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**.
@@ -38,4 +49,5 @@ Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**
 
 
 ## 
-[![Jonatas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonriber&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+  [![Jonatas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonriber&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
