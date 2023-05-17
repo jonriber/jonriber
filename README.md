@@ -1,14 +1,19 @@
 ## **Jonatas Ribeiro**
 
 Brazilian **Software and Electronics Engineer**, 32 years old, married and father of two amazing kids, based in Lisbon, Portugal. <br/>
+<br/>
 Using technology to make life better. <br/>
+<br/>
 Currently working as a **Frontend Software Engineer and Web developer**.<br/>
 <br/>
 <div align="center">
   <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="600" height="300" />
 </div>
+<br/>
 Love to share knowledge and talk to people! <br/>
-Reach me at: **jonatas@prottaribeiro.com**
+<br/>
+Reach me at: <b>jonatas@prottaribeiro.com</b>
+<br/>
 <div id="badges" align="start">
   <a href="https://www.linkedin.com/in/jonatas-ribeiro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
