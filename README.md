@@ -12,7 +12,7 @@ Currently working as a **Frontend Software Engineer and Web developer**.<br/>
 <br/>
 Love to share knowledge and talk to people! <br/>
 <br/>
-Reach me at: <b>jonatas@prottaribeiro.com</b>
+📫Reach me at: <b>jonatas@prottaribeiro.com</b>
 <br/>
 <br/>
 <div id="badges" align="start">
@@ -27,16 +27,16 @@ Reach me at: <b>jonatas@prottaribeiro.com</b>
 ## Projects:
 Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**.
 ###### Web Apps (React/Vue)
-- [X] Portfolio Page REACT/HTML/CSS- https://prottaribeiro.com
-- [X] Login page - REACT Controlled components - https://jonriber.github.io/META-REACT-BASICS-2023/
-- [X] Feed Back Page - REACT - https://jonriber.github.io/feed-back-page/
-- [X] To-do List - REACT/REDUX - https://github.com/jonriber/toDoapp-redux-example
-- [X] To-do List - REACT/useReducer/Context API - https://jonriber.github.io/to-do-list-app/
-- [X] Calculator App - REACT/useRef/useState - https://jonriber.github.io/simple-calculator-app/
-- [X] Coupon Page - Complex Global State - REACT - https://jonriber.github.io/react-complex-state/
-- [X] Basic Fetch Data APP - React/useEffect/fetch - https://jonriber.github.io/basic-fetch-data/
-- [X] React auto complete tool (React interview common questions) - https://github.com/jonriber/React-Auto-complete
-- [X] React Search Filter (React interview common Questions) - https://github.com/jonriber/REACT---SEARCH-FILTER
+- [X] <a href="https://prottaribeiro.com">Portfolio Page REACT/HTML/CSS 💻</a> 
+- [X] <a href="https://jonriber.github.io/META-REACT-BASICS-2023/">Login page - REACT Controlled components 💻</a>
+- [X] <a href="https://jonriber.github.io/feed-back-page/">Feed Back Page - REACT 💻</a>
+- [X] <a href="https://github.com/jonriber/toDoapp-redux-example">To-do List - REACT/REDUX 💻</a>
+- [X] <a href="https://jonriber.github.io/to-do-list-app/">To-do List - REACT/useReducer/Context API 💻</a>
+- [X] <a href="https://jonriber.github.io/simple-calculator-app/">Calculator App - REACT/useRef/useState 💻</a>
+- [X] <a href="https://jonriber.github.io/react-complex-state/">Coupon Page - Complex Global State - REACT 💻</a>
+- [X] <a href="https://jonriber.github.io/basic-fetch-data/">Basic Fetch Data APP - React/useEffect/fetch 💻</a>
+- [X]  <a href="https://github.com/jonriber/React-Auto-complete">React auto complete tool (React interview common questions) 💻</a>
+- [X]  <a href="https://github.com/jonriber/REACT---SEARCH-FILTER">React Search Filter (React interview common Questions) 💻</a>
 
 ###### Tools & Backend & Algorithms
 - [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
