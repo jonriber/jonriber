@@ -37,6 +37,8 @@ Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**
 - [X] <a href="https://jonriber.github.io/basic-fetch-data/">Basic Fetch Data APP - React/useEffect/fetch 💻</a>
 - [X]  <a href="https://github.com/jonriber/React-Auto-complete">React auto complete tool (React interview common questions) 💻</a>
 - [X]  <a href="https://github.com/jonriber/REACT---SEARCH-FILTER">React Search Filter (React interview common Questions) 💻</a>
+- [X] <a href="https://jonriber.github.io/advanced-react-portfolio/">Portfolio Page Template - Advanced REACT/ChakraUi/Formik/YUP 💻</a> 
+
 
 ###### Tools & Backend & Algorithms
 - [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
