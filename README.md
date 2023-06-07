@@ -38,6 +38,7 @@ Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**
 - [X]  <a href="https://github.com/jonriber/React-Auto-complete">React auto complete tool (React interview common questions) 💻</a>
 - [X]  <a href="https://github.com/jonriber/REACT---SEARCH-FILTER">React Search Filter (React interview common Questions) 💻</a>
 - [X] <a href="https://jonriber.github.io/advanced-react-portfolio/">Portfolio Page Template - Advanced REACT/ChakraUi/Formik/YUP 💻</a> 
+- [X] <a href="https://jonriber.github.io/randomQuotes-2023/">Daily Quote - Using external API and custom Hook / REACT </a>
 
 
 ###### Tools & Backend & Algorithms
