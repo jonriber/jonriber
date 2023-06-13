@@ -39,7 +39,8 @@ Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**
 - [X]  <a href="https://github.com/jonriber/REACT---SEARCH-FILTER">React Search Filter (React interview common Questions) 💻</a>
 - [X] <a href="https://jonriber.github.io/advanced-react-portfolio/">Portfolio Page Template - Advanced REACT/ChakraUi/Formik/YUP 💻</a> 
 - [X] <a href="https://jonriber.github.io/randomQuotes-2023/">Daily Quote - Using external API and custom Hook / REACT </a>
-
+- [X] <a href="https://github.com/jonriber/to-do-list-full-stack-FARM">To-Do App Fullstack - FARM stack - FastAPI, react and MongoDB </a>
+- [X] <a href="https://github.com/jonriber/jonatas_personal_blog_project">Micro Blog with python - Using Python and Django </a>
 
 ###### Tools & Backend & Algorithms
 - [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
