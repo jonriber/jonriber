@@ -58,10 +58,6 @@ Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**
 
   ---
 
-## Status
-  [![Jonatas' GitHub stats](https://github-readme-stats.vercel.app/api?username=jonriber&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonriber&layout=large&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <div align="center">
         <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100" height="100" />
   </div>
