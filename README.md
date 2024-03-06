@@ -1,16 +1,13 @@
 ## **Jonatas Ribeiro**
 
-Brazilian **Software and Electronics Engineer**, 32 years old, married and father of two amazing kids, based in Lisbon, Portugal. <br/>
+Brazilian **Software and Electronics Engineer**, 33 years old, married and father of three amazing kids, based in Lisbon, Portugal. <br/>
 <br/>
 Using technology to make life better. <br/>
 <br/>
 Currently working as a **Frontend Software Engineer and Web developer**.<br/>
 <br/>
-<div align="center">
-  <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="600" height="300" />
-</div>
-<br/>
-Love to share knowledge and talk to people! <br/>
+
+Love to share knowledge and meet people! <br/>
 <br/>
 📫Reach me at: <b>jonatas@prottaribeiro.com</b>
 <br/>
@@ -26,6 +23,15 @@ Love to share knowledge and talk to people! <br/>
 
 ## Projects:
 Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**.
+
+###### Master Degree in Computer Science at Instituto Politecnico de Tomar (IPT) - PT
+* Software Engineering
+* Machine Learning
+* Infrastructure and Security
+* Big Data
+* Advanced Mobile Development
+* Cloud Computing
+
 ###### Web Apps (React/Vue)
 - [X] <a href="https://prottaribeiro.com">Portfolio Page REACT/HTML/CSS 💻</a> 
 - [X] <a href="https://jonriber.github.io/META-REACT-BASICS-2023/">Login page - REACT Controlled components 💻</a>
