@@ -1,13 +1,14 @@
 ## **Jonatas Ribeiro**
 
-Brazilian **Software and Electronics Engineer**, 33 years old, married and father of three amazing kids, based in Lisbon, Portugal. <br/>
+I am a seasoned professional with advanced expertise in **HTML, CSS, JavaScript, and contemporary front-end frameworks**. Additionally, I possess proficiency in server-side programming languages such as **Python and Node.js** for API development. 
 <br/>
-Using technology to make life better. <br/>
+Currently, I am enhancing my skills through a Master's degree program in Computer Engineering, where I am delving into machine learning, artificial intelligence, big data using Python, and Android mobile development with Kotlin. 
 <br/>
-Currently working as a **Frontend Software Engineer and Web developer**.<br/>
+My career journey began as an Electronics Engineer specializing in Biomedical Engineering, telecommunication systems, and IoT, before transitioning into Software Engineering and web development. 
 <br/>
-
-Love to share knowledge and meet people! <br/>
+In my role as an Engineer, I actively engage in academic pursuits and assist organizations in driving innovation through Research and Development of cutting-edge technologies. I excel in project management, quality assurance, and the implementation of clean code and software development best practices to foster continual improvement.
+<br/>
+I´m also a surfer, a Rugby player, and a motorcycle enthusiast.
 <br/>
 📫Reach me at: <b>jonatas@prottaribeiro.com</b>
 <br/>
