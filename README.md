@@ -1,6 +1,6 @@
 ## **Jonatas Ribeiro**
 
-I am a seasoned professional with advanced expertise in **HTML, CSS, JavaScript, and contemporary front-end frameworks**. Additionally, I possess proficiency in server-side programming languages such as **Python and Node.js** for API development. 
+I am a seasoned professional with advanced expertise in **HTML, CSS, JavaScript, and contemporary front-end frameworks**. Additionally, I am comfortable working with server-side programming languages such as **Python and Node.js** for API development. 
 <br/>
 Currently, I am enhancing my skills through a Master's degree program in Computer Engineering, where I am delving into machine learning, artificial intelligence, big data using Python, and Android mobile development with Kotlin. 
 <br/>
