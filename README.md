@@ -1,10 +1,10 @@
 ## **Jonatas Ribeiro**
 
-I am a seasoned professional with advanced expertise in **HTML, CSS, JavaScript, and contemporary front-end frameworks**. Additionally, I am comfortable working with server-side programming languages such as **Python and Node.js** for API development. 
+I am a seasoned professional with advanced expertise in **HTML, CSS, JavaScript, and modern front-end frameworks**. Additionally, I am comfortable working with server-side programming languages such as **Python and Node.js** for API development. 
 <br/>
-Currently, I am enhancing my skills through a Master's degree program in Computer Engineering, where I am delving into machine learning, artificial intelligence, big data using Python, and Android mobile development with Kotlin. 
+Currently, I am enhancing my skills through a Master's degree program in Computer Engineering, where I am delving into machine learning, artificial intelligence and big data using Python and other programming languages, and also Android mobile development with Kotlin and Flutter. 
 <br/>
-My career journey began as an Electronics Engineer specializing in Biomedical Engineering, telecommunication systems, and IoT, before transitioning into Software Engineering and web development. 
+My career began as an Electronics Engineer specializing in Biomedical Engineering, telecommunication systems, and IoT, before transitioning into Software Engineering and web development. 
 <br/>
 In my role as an Engineer, I actively engage in academic pursuits and assist organizations in driving innovation through Research and Development of cutting-edge technologies. I excel in project management, quality assurance, and the implementation of clean code and software development best practices to foster continual improvement.
 <br/>
