@@ -23,7 +23,7 @@ I´m also a surfer, a Rugby player, and a motorcycle enthusiast.
 ---
 
 ## Projects:
-Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**.
+Some projects I´ve been working on, achievements and usefull tools:
 
 ###### Master Degree in Computer Science at Instituto Politecnico de Tomar (IPT) - PT
 * Software Engineering
@@ -34,8 +34,10 @@ Somethings I´ve studying, focused in **learning** and knoledge **reinforcment**
 * Cloud Computing
 
 ###### Web Apps (Next.js)
-- [X] <a href="[https://prottaribeiro.com](https://github.com/jonriber/next-js-udemy-course)">Simple Corp landing page with routes 💻</a> 
+- [X] <a href="https://github.com/jonriber/next-js-udemy-course">Simple Corp landing page with routes 💻</a> 
+- [ ] <a href="https://github.com/jonriber/next-crud-snippets">Snippets CRUD 💻</a>
 
+      
 ###### Web Apps (React/Vue)
 - [X] <a href="https://prottaribeiro.com">Portfolio Page REACT/HTML/CSS 💻</a> 
 - [X] <a href="https://jonriber.github.io/META-REACT-BASICS-2023/">Login page - REACT Controlled components 💻</a>
