@@ -35,7 +35,7 @@ Some projects I´ve been working on, achievements and usefull tools:
 
 ###### Web Apps (Next.js)
 - [X] <a href="https://github.com/jonriber/next-js-udemy-course">Simple Corp landing page with routes 💻</a> 
-- [ ] <a href="https://github.com/jonriber/next-crud-snippets">Snippets CRUD 💻</a>
+- [X] <a href="https://github.com/jonriber/next-crud-snippets">Snippets CRUD 💻</a>
 
       
 ###### Web Apps (React/Vue)
