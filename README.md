@@ -2,16 +2,28 @@
 
 I am a seasoned professional with advanced expertise in **HTML, CSS, JavaScript, and modern front-end frameworks**. Additionally, I am comfortable working with server-side programming languages such as **Python and Node.js** for API development. 
 <br/>
+<br/>
+
 Currently, I am enhancing my skills through a Master's degree program in Computer Engineering, where I am delving into machine learning, artificial intelligence and big data using Python and other programming languages, and also Android mobile development with Kotlin and Flutter. 
 <br/>
+<br/>
+
 My career began as an Electronics Engineer specializing in Biomedical Engineering, telecommunication systems, and IoT, before transitioning into Software Engineering and web development. 
 <br/>
-In my role as an Engineer, I actively engage in academic pursuits and assist organizations in driving innovation through Research and Development of cutting-edge technologies. I excel in project management, quality assurance, and the implementation of clean code and software development best practices to foster continual improvement.
 <br/>
+
+As an Engineer, I am actively engaging in academic pursuits and assisting organizations to innovate through Research and Development of cutting-edge technologies. I excel in project management, quality assurance, and the implementation of clean code and software development best practices to foster continual improvement.
+<br/>
+<br/>
+
 I´m also a surfer, a Rugby player, and a motorcycle enthusiast.
 <br/>
+<br/>
+
 📫Reach me at: <b>jonatas@prottaribeiro.com</b>
 <br/>
+<br/>
+
 <br/>
 <div id="badges" align="start">
   <a href="https://www.linkedin.com/in/jonatas-ribeiro/">
