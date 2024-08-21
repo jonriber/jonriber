@@ -8,11 +8,11 @@ Currently, I am enhancing my skills through a Master's degree program in Compute
 <br/>
 <br/>
 
-My career began as an Electronics Engineer specializing in Biomedical Engineering, telecommunication systems, and IoT, before transitioning into Software Engineering and web development. 
+My career began as an Electronics Engineer with an enphasis on Biomedical Engineering, telecommunication systems, and IoT, before transitioning into Software Engineering and web development. 
 <br/>
 <br/>
 
-As an Engineer, I am actively engaging in academic pursuits and assisting organizations to innovate through Research and Development of cutting-edge technologies. I excel in project management, quality assurance, and the implementation of clean code and software development best practices to foster continual improvement.
+As an Engineer, I am often engaging in academic pursuits and assisting organizations to innovate through Research and Development of cutting-edge technologies. I excel in project management, quality assurance, and the implementation of clean code and software development best practices to foster continual improvement.
 <br/>
 <br/>
 
