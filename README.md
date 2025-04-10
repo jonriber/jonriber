@@ -34,8 +34,7 @@ I´m also a surfer, a Rugby player, and a motorcycle enthusiast.
 
 ---
 
-## Projects:
-Some projects I´ve been working on, achievements and usefull tools:
+## Portfolio:
 
 ###### Master Degree in Computer Science at Instituto Politecnico de Tomar (IPT) - PT
 * Software Engineering
@@ -45,9 +44,10 @@ Some projects I´ve been working on, achievements and usefull tools:
 * Advanced Mobile Development
 * Cloud Computing
 
-###### Web Apps (Next.js)
-- [X] <a href="https://github.com/jonriber/next-js-udemy-course">Simple Corp landing page with routes 💻</a> 
-- [X] <a href="https://github.com/jonriber/next-crud-snippets">Snippets CRUD 💻</a>
+###### Full-Stack Web Applications
+- [X] <a href="https://github.com/jonriber/next-js-udemy-course">Simple Corp landing page with routes (Next.js)💻</a> 
+- [X] <a href="https://github.com/jonriber/next-crud-snippets">Snippets CRUD (Next.js)💻</a>
+- [X] <a href="">IoT Fleet Management System (FastAPI + postgres * Next.js)💻</a>
 
       
 ###### Web Apps (React/Vue)
@@ -67,18 +67,13 @@ Some projects I´ve been working on, achievements and usefull tools:
 - [X] <a href="https://github.com/jonriber/jonatas_personal_blog_project">Micro Blog with python - Using Python and Django </a>
 
 ###### Tools & Backend & Algorithms
-- [ ] WhatsApp Bot - https://github.com/jonriber/WHATSAPP-BOT
 - [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
 - [X] Algorithmic Toolbox - University of California - https://github.com/jonriber/Data-Structures-and-Algorithms-2023
 - [X] Javascript Promises - https://github.com/jonriber/js-promisses
-- [ ] Performance Algorithms - https://github.com/jonriber/10-usefull-algorithms-in-nodejs
-
 
 ###### Games
 - [X] Snake Game (Vanilla Js and HTML) - https://github.com/jonriber/snakeGame
 - [X] Pick a Color - https://github.com/jonriber/Pick-a-Color
-- [ ] Rock Paper Scissors
-- [ ] Tic Tac Toe 
 
   ---
 <div> 
