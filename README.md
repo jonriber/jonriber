@@ -1,18 +1,14 @@
 ## **Jonatas Ribeiro**
 
-I am a Fullstack software engineer with advanced expertise in **HTML, CSS, JavaScript, and modern front-end frameworks** and with server-side programming languages such as **Python and Node.js** for API development. 
+I am a Full-Stack Software Engineer with over 6 years of professional experience building scalable web applications using modern JavaScript frameworks (React, Next.js), strong backend skills in Python (FastAPI, Django), and a passion for creating efficient and user-friendly solutions. 
 <br/>
 <br/>
 
-Currently, I am enhancing my skills through a Master's degree program in Computer Engineering, where I am delving into machine learning, artificial intelligence and big data using Python and other programming languages, and also Android mobile development with Kotlin and Flutter. 
+I am pursuing a Master’s degree in Computer Engineering, where my thesis explores clinical decision-making using large language models (LLMs) and the MIMIC-III database. The project leverages Python to develop data pipelines, fine-tune LLMs with retrieval-augmented generation (RAG), and evaluate clinical text interpretation.
 <br/>
 <br/>
 
-My career began as an Electronics Engineer with an enphasis on Biomedical Engineering, telecommunication systems, and IoT, before transitioning into Software Engineering and web development. 
-<br/>
-<br/>
-
-As an Engineer, I am often engaging in academic pursuits and assisting organizations to innovate through Research and Development of cutting-edge technologies. I excel in project management, quality assurance, and the implementation of clean code and software development best practices to foster continual improvement.
+With an engineering background in Electronics Engineering and IoT, I bring a systems-oriented mindset to full-stack development. I thrive in agile environments, prioritize clean and maintainable code, and collaborate closely with designers and stakeholders to deliver impactful digital products.
 <br/>
 <br/>
 
@@ -48,9 +44,13 @@ I´m also a surfer, a Rugby player, and a motorcycle enthusiast.
 - [X] <a href="https://github.com/jonriber/next-js-udemy-course">Simple Corp landing page with routes (Next.js)💻</a> 
 - [X] <a href="https://github.com/jonriber/next-crud-snippets">Snippets CRUD (Next.js)💻</a>
 - [X] <a href="">IoT Fleet Management System (FastAPI + postgres * Next.js)💻</a>
+- [X] <a href="https://github.com/jonriber/jonatas_personal_blog_project">Micro Blog with python - Using Python and Django </a>
+- [X] <a href="https://github.com/jonriber/to-do-list-full-stack-FARM">To-Do App Fullstack - FARM stack - FastAPI, react and MongoDB </a>
+- [X] <a href="https://jonriber.github.io/randomQuotes-2023/">Daily Quote - Using external API and custom Hook / REACT </a>
+
 
       
-###### Web Apps (React/Vue)
+###### Web Apps (Front-end focused)
 - [X] <a href="https://prottaribeiro.com">Portfolio Page REACT/HTML/CSS 💻</a> 
 - [X] <a href="https://jonriber.github.io/META-REACT-BASICS-2023/">Login page - REACT Controlled components 💻</a>
 - [X] <a href="https://jonriber.github.io/feed-back-page/">Feed Back Page - REACT 💻</a>
@@ -62,9 +62,7 @@ I´m also a surfer, a Rugby player, and a motorcycle enthusiast.
 - [X]  <a href="https://github.com/jonriber/React-Auto-complete">React auto complete tool (React interview common questions) 💻</a>
 - [X]  <a href="https://github.com/jonriber/REACT---SEARCH-FILTER">React Search Filter (React interview common Questions) 💻</a>
 - [X] <a href="https://jonriber.github.io/advanced-react-portfolio/">Portfolio Page Template - Advanced REACT/ChakraUi/Formik/YUP 💻</a> 
-- [X] <a href="https://jonriber.github.io/randomQuotes-2023/">Daily Quote - Using external API and custom Hook / REACT </a>
-- [X] <a href="https://github.com/jonriber/to-do-list-full-stack-FARM">To-Do App Fullstack - FARM stack - FastAPI, react and MongoDB </a>
-- [X] <a href="https://github.com/jonriber/jonatas_personal_blog_project">Micro Blog with python - Using Python and Django </a>
+
 
 ###### Tools & Backend & Algorithms
 - [X] REST API 101 with Python, Flask and SQlite (https://github.com/jonriber/REST_API_01)
