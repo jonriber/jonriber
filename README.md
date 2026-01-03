@@ -1,6 +1,6 @@
 ## **Jonatas Ribeiro**
 
-I am a Full-Stack Software Engineer with over 7 years of professional experience building scalable web applications using modern JavaScript frameworks (React, Next.js), strong backend skills in Python (FastAPI, Django), and a passion for creating efficient and user-friendly solutions. 
+I am a Senior Full-Stack Software Engineer with over 8 years of professional experience building scalable web applications using modern JavaScript frameworks (React, Next.js), strong backend skills in Python (FastAPI, Django), and a passion for creating efficient, scalable and future-proof solutions. 
 <br/>
 <br/>
 
